@@ -1,1 +1,10 @@
-
+[
+    {
+        "IdChampion": 1,
+        "Champion": "Aatrox"
+    },
+    {
+        "IdChampion": 2,
+        "Champion": "Ahri"
+    },
+]
